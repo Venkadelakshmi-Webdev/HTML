@@ -1,0 +1,16 @@
+.container{
+    display:flex;
+}
+
+p{
+    padding:25px;
+}
+.one{
+    background-color:aquamarine;
+}
+.two{
+    background-color:darksalmon;
+}
+.three{
+    background-color:rgb(209, 243, 209);
+}
