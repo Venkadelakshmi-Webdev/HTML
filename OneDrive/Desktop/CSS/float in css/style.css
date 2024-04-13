@@ -1,0 +1,9 @@
+.one p{
+    color:blueviolet;
+    width:30%;
+    float:left;
+}
+
+/*.one p:nth-child(4){
+    clear:left;
+}

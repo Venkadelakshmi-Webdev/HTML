@@ -1,0 +1,6 @@
+.one{
+    width:70vw; /* 50vmin , 50vmax */
+    height:20vh;
+    border:2px solid black;
+    margin:auto;
+}

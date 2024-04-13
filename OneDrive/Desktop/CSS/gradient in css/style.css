@@ -1,0 +1,68 @@
+.one{
+    width:200px;
+    height:200px;
+    background:linear-gradient(blue,green,yellow)
+}
+
+.two{
+    margin-top: 10px;
+    width:200px;
+    height:200px;
+    background:radial-gradient(blue,green,yellow)
+}
+
+.three{
+    margin-top: 10px;
+    width:200px;
+    height:200px;
+    background:linear-gradient(to top,blue,green,yellow)
+}
+
+.four{
+    margin-top: 10px;
+    width:200px;
+    height:200px;
+    background:linear-gradient(to bottom,blue,green,yellow)
+}
+
+.five{
+    margin-top: 10px;
+    width:200px;
+    height:200px;
+    background:linear-gradient(to left,blue,green,yellow)
+}
+
+.six{
+    margin-top: 10px;
+    width:200px;
+    height:200px;
+    background:linear-gradient(to right,blue,green,yellow)
+}
+
+.seven{
+    margin-top: 10px;
+    width:200px;
+    height:200px;
+    background:linear-gradient(blue 20%,blue,green 30%,green)
+}
+
+.eight{
+    margin-top: 10px;
+    width:200px;
+    height:200px;
+    background:radial-gradient(blue 20%,blue ,green 30%,green)
+}
+
+.nine{
+    margin-top: 10px;
+    width:200px;
+    height:200px;
+    background:repeating-linear-gradient(blue 10px,blue 20px,green 10px,green 30px)
+}
+
+.ten{
+    margin-top: 10px;
+    width:200px;
+    height:200px;
+    background:repeating-radial-gradient(blue 10px,blue 20px,green 10px,green 30px)
+}
